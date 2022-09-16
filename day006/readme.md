@@ -10,4 +10,7 @@ Write a program using an `if`/`elif`/`else` statement so Reeborg can find the ex
 * Either the test `front_is_clear()` or `wall_in_front()`, `right_is_clear()` or `wall_on_right()`, and `at_goal()`.
 * How to use a while loop and `if`/`elif`/`else` statements.
 * It might be useful to know how to use the negation of a test (not in Python).
+
 ### Difficulty level 4/10
+
+https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
